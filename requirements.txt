@@ -1,0 +1,28 @@
+# Geospatial stack
+geopandas==1.1.2
+numpy==2.4.2
+pandas==3.0.0
+pyogrio==0.12.1
+pyproj==3.7.2
+rasterio==1.5.0
+scipy==1.17.0
+shapely==2.1.2
+
+# Mapping and visualization
+folium==0.20.0
+matplotlib==3.10.8
+
+# Reinforcement learning stack
+gymnasium==1.2.3
+sb3_contrib==2.7.1
+stable_baselines3==2.7.1
+torch==2.10.0
+
+# Training utilities
+tensorboard==2.20.0
+tqdm==4.67.3
+rich==15.0.0
+
+# Jupyter / notebook
+ipykernel==7.2.0
+ipywidgets==8.1.7
