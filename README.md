@@ -35,15 +35,7 @@ Repozitář neobsahuje velké datové soubory. Po naklonování je nutno stáhno
 Data lze stáhnout z GeoPortálu ČÚZK po registraci, nebo jsou dostupná přes WFS službu.  
 Exportovat je nutno do formátu GeoPackage (`.gpkg`) do adresáře `data/raw/`.
 
-### 2. Elektrické vedení VN110
-
-| Soubor | Cílové umístění |
-|--------|----------------|
-| `VN110_zabaged_results_elektricke_vedeni.geojson` | `data/layers/VN110_zabaged_results_elektricke_vedeni.geojson` |
-
-**Zdroj:** Výsledek dotazu na vrstvu elektrického vedení z `ZABAGED_RESULTS.gpkg` (lze exportovat z přiloženého `.gpkg` pomocí QGIS nebo `ogr2ogr`).
-
-### 3. PPO model (pro inference)
+### 2. PPO model (pro inference)
 
 | Soubor | Cílové umístění |
 |--------|----------------|
