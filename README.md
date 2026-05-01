@@ -1,4 +1,4 @@
-Výzkumný projekt pro automatizované trasování vedení VVN pomocí geospatial dat ZABAGED.  
+Výzkumný projekt (Diplomová Práce) pro automatizované trasování vedení VVN pomocí geospatial dat ZABAGED.  
 Pipeline kombinuje deterministické Dijkstrovo trasování s reinforcement-learning modelem (PPO/MaskablePPO) nad mřížkovými costmapami.
 
 ---
